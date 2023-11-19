@@ -8,7 +8,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
-        <div class="sidebar-brand-text mx-3"> Penggajian </div>
+        <div class="sidebar-brand-text mx-3"> PENGGAJIAN </div>
       </a>
 
       <!-- Divider -->
@@ -64,7 +64,7 @@
             <i class="fa fa-bars"></i>
           </button>
 
-          <h4 class="font-weight-bold">PT. BAGUS BERJAYA</h4>
+          <h4 class="font-weight-bold">Kelompok 2 ARSITEKTUR PERANGKAT LUNAK</h4>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">
