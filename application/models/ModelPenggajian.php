@@ -1,6 +1,6 @@
 <?php
 
-class ModelPenggajian extends CI_Model {
+class ModelPenggajian extends CI_model {
 
 	public function get_data($table)  {
 		return $this->db->get("$table");
