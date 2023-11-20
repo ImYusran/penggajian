@@ -1,9 +1,9 @@
 <?php
 
-class ModelPenggajian extends CI_model{
+class ModelPenggajian extends CI_Model {
 
-	public function get_data($table) {
-		return $this->db->get($table);
+	public function get_data($table)  {
+		return $this->db->get("$table");
 	}
 
 	public function insert_data($data,$table){
@@ -15,7 +15,7 @@ class ModelPenggajian extends CI_model{
 	}
 
 	public function delete_data($whare,$table){
-		$this->db->where($whare);
+		$this->db->whare($whare);
 		$this->db->delete($table);
 	}
 
