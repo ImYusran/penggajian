@@ -1,13 +1,13 @@
 <?php
 Class ModelPotongan_Gaji extends CI_Model
 {
-  function TampilPotongan() 
-    {
-        $this->db->order_by('id', 'ASC');
-        return $this->db->from('potongan_gaji')
-          ->get()
-          ->result();
-    }
+  function TampilPotongan()
+  {
+      $this->db->order_by('id', 'ASC');
+      return $this->db->from('potongan_gaji')
+        ->get()
+        ->result();
+  }
 
     function Getpotongan($potongan = '')
     {
@@ -15,6 +15,6 @@ Class ModelPotongan_Gaji extends CI_Model
     }
     function HapusPotongan($potongan)
     {
-        $this->db->delete('potongan_gaji',array('potongan' => $potongan));
+      $this->db->delete('potongan_gaji',array('potongan' => $potongan));
     }
 }
