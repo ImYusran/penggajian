@@ -64,7 +64,7 @@
             <i class="fa fa-bars"></i>
           </button>
 
-          <h4 class="font-weight-bold">PT. Bagus Berjaya</h4>
+          <h4 class="font-weight-bold">KELOMPOK 2 ARSITEKTUR PERANGKAT LUNAK</h4>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">
