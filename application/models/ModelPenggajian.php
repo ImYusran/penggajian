@@ -1,6 +1,6 @@
 <?php
 
-class ModelPenggajian extends CI_Model {
+class ModelPenggajian extends CI_model {
 
 	public function get_data($table)  {
 		return $this->db->get("$table");
@@ -10,12 +10,12 @@ class ModelPenggajian extends CI_Model {
 		$this->db->insert($table, $data);
 	}
 
-	public function update_data($table, $data, $whare){
-		$this->db->update($table, $data, $whare);
+	public function update_data($table, $data, $where){
+		$this->db->update($table, $data, $where);
 	}
 
-	public function delete_data($whare,$table){
-		$this->db->whare($whare);
+	public function delete_data($where,$table){
+		$this->db->where($where);
 		$this->db->delete($table);
 	}
 

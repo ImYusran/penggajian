@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Login | Aplikasi Penggajian</title>
+	<title>Login - Aplikasi Penggajian</title>
 	<link href="<?php echo base_url(); ?>assets/css/login.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
 	<script src="<?php echo base_url(); ?>assets/js/a81368914c.js"></script>

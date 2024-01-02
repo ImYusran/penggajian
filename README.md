@@ -1,5 +1,6 @@
-Anggota Kelompok 2 MVC:
+# Kelompok 2 - Arsitektur Perangkat Lunak
 
+<<<<<<< HEAD
 1. Fadit Al Fauzan | E1E121002
 2. Wa Ode Azzahra Astiani Hasiba | E1E1 21 014
 3. Wahyu Nahda Putra | E1E121016
@@ -9,7 +10,6 @@ Anggota Kelompok 2 MVC:
 7. Muhammad Yusran Adiputra Raeba | E1E121080
 8. Putri Salzahra | E1E121085
 9. Zahra Maharani Aulia | E1E121098
-
 
 Final APL :
 1. MUH.YUSRAN E1E121080

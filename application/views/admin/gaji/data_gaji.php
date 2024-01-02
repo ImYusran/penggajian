@@ -97,7 +97,7 @@
 						<th class="text-center">Nama Pegawai</th>
 						<th class="text-center">Jenis Kelamin</th>
 						<th class="text-center">Jabatan</th>
-						<th class="text-center">GajI Pokok</th>
+						<th class="text-center">Gaji Pokok</th>
 						<th class="text-center">Tj. Transport</th>
 						<th class="text-center">Uang Makan</th>
 						<th class="text-center">Potongan</th>

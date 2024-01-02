@@ -1,12 +1,5 @@
 <!-- Footer -->
-      <footer class="sticky-footer">
-        <div class="container my-auto">
-          <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Bagus Budi Satoto | Penggajian 2023 | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
-						</span>
-          </div>
-        </div>
-      </footer>
+     
       <!-- End of Footer -->
 
     </div>
