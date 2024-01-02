@@ -9,3 +9,7 @@ Anggota Kelompok 2 MVC:
 7. Muhammad Yusran Adiputra Raeba | E1E121080
 8. Putri Salzahra | E1E121085
 9. Zahra Maharani Aulia | E1E121098
+
+
+Final APL :
+1. MUH.YUSRAN E1E121080
