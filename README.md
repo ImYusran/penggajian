@@ -17,3 +17,4 @@ mawar tes
 
 UAS2 :
 1. Putri Salzahra-E1E121085
+2. mawar E1E121065
