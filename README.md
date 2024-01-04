@@ -14,3 +14,6 @@
 Final APL :
 1. PUTRI SALZAHRA-E1E121085      
 mawar tes
+
+UAS2 :
+1. Putri Salzahra-E1E121085
