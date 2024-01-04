@@ -13,4 +13,8 @@
 
 Final APL :
 1. PUTRI SALZAHRA-E1E121085      
+<<<<<<< HEAD
 mawar tes
+=======
+mawar tes
+>>>>>>> 7fa1af0be5425ce286e66cfd8650e082957b87ca
